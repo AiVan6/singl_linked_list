@@ -1,8 +1,6 @@
 package com.company;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectOutputStream;
+import java.io.*;
 
 public class DataSerializable<E extends Comparable<E>> {
 
@@ -10,6 +8,13 @@ public class DataSerializable<E extends Comparable<E>> {
         ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(filename));
         oos.writeObject(data);
         oos.close();
+    }
+
+    public static Object deserializeFromBinary(String filename) throws IOException, ClassNotFoundException {
+        ObjectInputStream ois = new ObjectInputStream(new FileInputStream(filename));
+        Object data = ois.readObject();
+        ois.close();
+        return data;
     }
 
 }
