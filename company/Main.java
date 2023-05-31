@@ -19,10 +19,11 @@ public class Main {
 
         list.insert(2,8);
 
-        list.removeIndex(1);
+        list.removeIndex(0);
 
-        myIterator iterator = new myIterator(list);
-        iterator.forEch(System.out::println);
+        //myIterator iterator = new myIterator(list);
+        //iterator.forEch(System.out::println);
+
         list.sort();
         list.printList();
 

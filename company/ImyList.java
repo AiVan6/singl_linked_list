@@ -1,5 +1,6 @@
 package com.company;
 
+
 public interface ImyList<E> {
     void push_back(E data);
     void printList();

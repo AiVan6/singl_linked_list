@@ -1,16 +1,11 @@
 package com.company;
 
 public class myNode<E extends Comparable<E>> extends myList<E>  {
-    E data;
-    myNode<E> next;
-
+    E data;//Экземпляр для данный
+    myNode<E> next; // Сыылка на следующий узел
+    //конструктор для иницализции
     myNode(E data){
         this.data = data;
         this.next = null;
     }
-
-    public int compare(myNode<E> other) {
-        return this.data.compareTo(other.data);
-    }
-
 }
