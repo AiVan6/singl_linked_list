@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40285edf-94f8-481a-ba3c-6fd02c3759f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qmx7GhObTkrMCYJ6SuKPBoaMSc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Java/com/JavaLr/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.JavaLR.java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaraProj\ScalaLR\src\main\Java\com\JavaLr\java" />
+      <recent name="D:\javaraProj\ScalaLR\src\main\Java\com\JavaLR\java" />
+      <recent name="D:\javaraProj\ScalaLR\src\main\Java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaLr.java.Main" />
+      <module name="ScalaLR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.JavaLr.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ScalaLR.scala.Main" />
+      <module name="ScalaLR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ScalaLR.scala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.JavaLR.java.Main" />
+      <module name="ScalaLR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.JavaLR.java.Main" />
+      <module name="ScalaLR" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ScalaLR" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalalr [file:/D:/javaraProj/ScalaLR/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ScalaLR-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3371944777658" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3842552018" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40285edf-94f8-481a-ba3c-6fd02c3759f0" name="Default Changelist" comment="" />
+      <created>1685972388619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685972388619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Inspections" timestamp="1686019029377">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1686019029377" />
+    <state x="539" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1685981018597">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="539" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1685981018597" />
+    <state x="583" y="323" width="384" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1685975834109">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="583" y="323" width="384" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.816@0.0.1536.816" timestamp="1685975834109" />
+    <state x="407" y="96" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1685975603060">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="407" y="96" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.816@0.0.1536.816" timestamp="1685975603060" />
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1685984475943">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1685984475943" />
+    <state x="566" y="268" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1685980876577">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="566" y="268" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816@0.0.1536.816" timestamp="1685980876577" />
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1685980999392">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1685980999392" />
+    <state width="401" height="466" key="DebuggerActiveHint" timestamp="1686031012327">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="401" height="466" key="DebuggerActiveHint/0.0.1536.816@0.0.1536.816" timestamp="1686031012327" />
+    <state x="551" y="124" key="DetectedRootsChooserDialog" timestamp="1685979317789">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="551" y="124" key="DetectedRootsChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1685979317789" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1685980442628">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1685980442628" />
+    <state width="746" height="279" key="GridCell.Tab.0.bottom" timestamp="1686038898063">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="279" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1686038898063" />
+    <state width="746" height="279" key="GridCell.Tab.0.center" timestamp="1686038898063">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="279" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1686038898063" />
+    <state width="746" height="279" key="GridCell.Tab.0.left" timestamp="1686038898063">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="279" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1686038898063" />
+    <state width="746" height="279" key="GridCell.Tab.0.right" timestamp="1686038898063">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="279" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1686038898063" />
+    <state width="746" height="258" key="GridCell.Tab.1.bottom" timestamp="1686031071376">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1686031071376" />
+    <state width="746" height="258" key="GridCell.Tab.1.center" timestamp="1686031071376">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1686031071376" />
+    <state width="746" height="258" key="GridCell.Tab.1.left" timestamp="1686031071376">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1686031071376" />
+    <state width="746" height="258" key="GridCell.Tab.1.right" timestamp="1686031071376">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="746" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1686031071376" />
+    <state x="467" y="107" key="NewModule_or_Project.wizard" timestamp="1685979746698">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="467" y="107" key="NewModule_or_Project.wizard/0.0.1536.816@0.0.1536.816" timestamp="1685979746698" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1685980262261">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1685980262261" />
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1685972393154">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1685972393154" />
+    <state x="93" y="93" width="1350" height="630" key="dock-window-1" timestamp="1685981075463">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="dock-window-1/0.0.1536.816@0.0.1536.816" timestamp="1685981075463" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Java/com/JavaLr/java/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
